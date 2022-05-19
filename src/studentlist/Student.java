@@ -11,7 +11,7 @@ package studentlist;
  */
 public class Student{
     String name;
-    String ID;
+
     public Student(){}
     public Student(String name){
     this.name=name;}
