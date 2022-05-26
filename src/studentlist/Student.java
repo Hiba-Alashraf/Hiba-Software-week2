@@ -10,7 +10,8 @@ package studentlist;
  * @author Hiba Alashraf
  */
 public class Student{
-    String name;
+    String name2;
+      String name21;
 
     public Student(){}
     public Student(String name){
