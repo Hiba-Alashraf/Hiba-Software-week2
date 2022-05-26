@@ -12,6 +12,7 @@ package studentlist;
 public class Student{
     String name2;
       String name21;
+       String name21;
 
     public Student(){}
     public Student(String name){
