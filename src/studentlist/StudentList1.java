@@ -27,7 +27,8 @@ public class StudentList1 {
     }
           for(Student s : studentlist){
           System.out.println(s.getName());
-           System.out.println(s.getName());}
+           System.out.println(s.getName());
+          System.out.println(s.getName());}
         
  
     }
