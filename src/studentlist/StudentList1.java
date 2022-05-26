@@ -26,7 +26,8 @@ public class StudentList1 {
      studentlist[i].setName(input.nextLine());     
     }
           for(Student s : studentlist){
-          System.out.println(s.getName());}
+          System.out.println(s.getName());
+           System.out.println(s.getName());}
         
  
     }
